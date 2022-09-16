@@ -1,3 +1,12 @@
+# Title: Googlevideo permutations-YouTube-Ad-Filter
+# Description: Blocks YouTube Ads.
+# Format: filter
+# Updated: Sept 16 12:13 2022
+# --------------------------------------------
+#
+# --------------------------------------------
+# Googlevideo permutations  B E G I N S
+# --------------------------------------------
 0.0.0.0 r5.sn-a5msenll.googlevideo.com	
 0.0.0.0 rr1.sn-a5msen7l.googlevideo.com	
 0.0.0.0 r1.sn-ixh7rn76.googlevideo.com	
@@ -81,3 +90,26 @@
 0.0.0.0 rr4---sn-q4flrnss.googlevideo.com	
 0.0.0.0 rr1---sn-a5msen7s.googlevideo.com	
 0.0.0.0 rr2---sn-a5msen7z.googlevideo.com
+0.0.0.0 rr2---sn-a5msenle.googlevideo.com	
+0.0.0.0 rr5---sn-a5meknsd.googlevideo.com	
+0.0.0.0 rr1---sn-q4fl6nz7.googlevideo.com	
+0.0.0.0 rr1.sn-q4fl6nz7.googlevideo.com	
+0.0.0.0 rr1.sn-q4fl6nsk.googlevideo.com	
+0.0.0.0 rr1---sn-q4fl6nsk.googlevideo.com	
+0.0.0.0 rr4.sn-q4flrne6.googlevideo.com
+0.0.0.0 rr2---sn-a5msen7z.googlevideo.com	
+0.0.0.0 rr2---sn-a5mekn6z.googlevideo.com
+0.0.0.0 rr4---sn-q4flrne6.googlevideo.com
+0.0.0.0 rr3.sn-a5msenl7.googlevideo.com	
+0.0.0.0 rr2---sn-a5meknzl.googlevideo.com	
+0.0.0.0 rr1---sn-q4flrne6.googlevideo.com	
+0.0.0.0 rr2---sn-a5msen76.googlevideo.com	
+0.0.0.0 rr2---sn-a5meknde.googlevideo.com	
+0.0.0.0 rr2---sn-a5msenl7.googlevideo.com	
+0.0.0.0 rr2---sn-q4fl6n66.googlevideo.com	
+0.0.0.0 rr2---sn-q4fl6nsl.googlevideo.com		
+0.0.0.0 rr2---sn-a5msenll.googlevideo.com	
+0.0.0.0 rr2---sn-q4fzen7e.googlevideo.com
+0.0.0.0 rr3---sn-a5msenl7.googlevideo.com	
+0.0.0.0 rr4.sn-a5msenle.googlevideo.com
+0.0.0.0 rr3---sn-a5msen7s.googlevideo.com
