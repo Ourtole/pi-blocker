@@ -144,3 +144,8 @@
 0.0.0.0 rr4.sn-a5mekn6z.googlevideo.com	
 0.0.0.0 rr5.sn-q4flrnle.googlevideo.com
 0.0.0.0 rr2---sn-q4flrn7y.googlevideo.com
+0.0.0.0 rr3.sn-q4flrnss.googlevideo.com	
+0.0.0.0 rr2.sn-a5mekn6k.googlevideo.com
+0.0.0.0 rr1---sn-a5meknzs.googlevideo.com	
+0.0.0.0 rr4---sn-a5mekn6z.googlevideo.com
+0.0.0.0 rr4---sn-q4fl6nsr.googlevideo.com
