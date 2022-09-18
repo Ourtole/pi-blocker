@@ -1,0 +1,16 @@
+github.com	
+i.ytimg.com	
+youtube.com	
+p.hulu.com	
+ad.hulu.com	
+ads.hulu.com	
+play.hulu.com	
+www.hulu.com	
+raw.githubusercontent.com	
+login.live.com
+forums.freebsd.org	
+rpilocator.com	
+cdn.datatables.net
+cdnjs.cloudflare.com
+device.auth.xboxlive.com	
+www.youtube.com
