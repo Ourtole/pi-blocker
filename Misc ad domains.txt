@@ -16,6 +16,27 @@
 0.0.0.0 a446c139-33b9-449c-9f98-6cdf03180647-panelresearch.googlevideo.com
 # [Yahoo.com]
 0.0.0.0 beap.gemini.yahoo.com	
+# [Fire TV]
+0.0.0.0 ags-ext.amazon.com
+0.0.0.0 arcus-uswest.amazon.com
+0.0.0.0 cdws.eu-west-1.amazonaws.com
+0.0.0.0 cognito-identity.us-east-1.amazonaws.com
+0.0.0.0 cortana-gateway.amazon.com
+0.0.0.0 cz15y20kg2.execute-api.us-east-1.amazonaws.com
+0.0.0.0 dcape-na.amazon.com
+0.0.0.0 device-messaging-na.amazon.com
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 digprjsurvey.amazon.eu
+0.0.0.0 dp-discovery-na-ext.amazon.com
+0.0.0.0 dp-gw-na.amazon.com
+0.0.0.0 dp-rsm-prod.amazon.com
+0.0.0.0 messaging-director-us-east-1.amazon.com
+0.0.0.0 msh.amazon.co.uk
+0.0.0.0 msh.amazon.com
+0.0.0.0 prod.amazoncrl.com
+0.0.0.0 tap-client-stats.s3-eu-west-1.amazonaws.com
+0.0.0.0 todo-ta-g7g.amazon.com
+0.0.0.0 eu.api.amazonvideo.com
 # [Generic]
 0.0.0.0 e91869.a.akamaiedge.net	
 0.0.0.0 ads.giveusyourdataz.com	
