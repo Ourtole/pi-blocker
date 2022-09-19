@@ -15,6 +15,14 @@
 0.0.0.0 be638abc-4a30-4a41-8fa7-9da70683aae3-panelresearch.googlevideo.com.socal.rr.com
 0.0.0.0 10d0ab82-c612-4558-9d2d-8aebb8d562f0-panelresearch.googlevideo.com
 0.0.0.0 a446c139-33b9-449c-9f98-6cdf03180647-panelresearch.googlevideo.com
+0.0.0.0 a446c139-33b9-449c-9f98-6cdf03180647-panelresearch.googlevideo.com	
+0.0.0.0 a446c139-33b9-449c-9f98-6cdf03180647-panelresearch.googlevideo.com.socal.rr.com	
+0.0.0.0 bf895fd4-0c45-47ad-a317-645bad827278-panelresearch.googlevideo.com	
+0.0.0.0 bf895fd4-0c45-47ad-a317-645bad827278-panelresearch.googlevideo.com.socal.rr.com	
+0.0.0.0 be638abc-4a30-4a41-8fa7-9da70683aae3-panelresearch.googlevideo.com	
+0.0.0.0 be638abc-4a30-4a41-8fa7-9da70683aae3-panelresearch.googlevideo.com.socal.rr.com	
+0.0.0.0 a13a0727-962b-4c06-9fa3-0cf78b9b23e6-panelresearch.googlevideo.com	
+0.0.0.0 a13a0727-962b-4c06-9fa3-0cf78b9b23e6-panelresearch.googlevideo.com.socal.rr.com
 # [Yahoo.com]
 0.0.0.0 beap.gemini.yahoo.com	
 # [Fire TV]
