@@ -11,7 +11,8 @@
 0.0.0.0 (\.|^)doubleclick\.net$
 0.0.0.0 redirector.googlevideo.com
 0.0.0.0 eee2d591-7ace-497d-9273-7a9d7e256a44-panelresearch.googlevideo.com.socal.rr.com
-0.0.0.0 10d0ab82-c612-4558-9d2d-8aebb8d562f0-panelresearch.googlevideo.com.socal.rr.com	
+0.0.0.0 10d0ab82-c612-4558-9d2d-8aebb8d562f0-panelresearch.googlevideo.com.socal.rr.com
+0.0.0.0 be638abc-4a30-4a41-8fa7-9da70683aae3-panelresearch.googlevideo.com.socal.rr.com
 0.0.0.0 10d0ab82-c612-4558-9d2d-8aebb8d562f0-panelresearch.googlevideo.com
 0.0.0.0 a446c139-33b9-449c-9f98-6cdf03180647-panelresearch.googlevideo.com
 # [Yahoo.com]
