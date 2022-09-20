@@ -3,6 +3,7 @@
 0.0.0.0 ads-a-darwin.hulustream.com
 # [Youtube.com]
 0.0.0.0 ade.googlesyndication.com
+0.0.0.0 rr[0-9]---sn-[a-z0-9]{8}\.googlevideo\.com
 0.0.0.0 (\.|^)c\.youtube\.com$
 0.0.0.0 (\.|^)c\.youtube\.com\.googlevideo\.com$
 0.0.0.0 (\.|^)rr4\.sn-q4flrnld\.googlevideo\.com$
