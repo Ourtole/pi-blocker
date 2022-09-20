@@ -4,6 +4,7 @@
 # [Youtube.com]
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 rr[0-9]---sn-[a-z0-9]{8}\.googlevideo\.com
+0.0.0.0 rr[0-9]---sn-[/w]{8}\.googlevideo\.com
 0.0.0.0 (\.|^)c\.youtube\.com$
 0.0.0.0 (\.|^)c\.youtube\.com\.googlevideo\.com$
 0.0.0.0 (\.|^)rr4\.sn-q4flrnld\.googlevideo\.com$
@@ -23,6 +24,7 @@
 0.0.0.0 be638abc-4a30-4a41-8fa7-9da70683aae3-panelresearch.googlevideo.com	
 0.0.0.0 be638abc-4a30-4a41-8fa7-9da70683aae3-panelresearch.googlevideo.com.socal.rr.com	
 0.0.0.0 a13a0727-962b-4c06-9fa3-0cf78b9b23e6-panelresearch.googlevideo.com	
+0.0.0.0 a13a0727-962b-4c06-9fa3-0cf78b9b23e6-panelresearch.googlevideo.com.socal.rr.com
 0.0.0.0 a13a0727-962b-4c06-9fa3-0cf78b9b23e6-panelresearch.googlevideo.com.socal.rr.com
 # [Yahoo.com]
 0.0.0.0 beap.gemini.yahoo.com	
