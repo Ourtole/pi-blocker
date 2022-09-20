@@ -26,6 +26,7 @@
 0.0.0.0 a13a0727-962b-4c06-9fa3-0cf78b9b23e6-panelresearch.googlevideo.com	
 0.0.0.0 a13a0727-962b-4c06-9fa3-0cf78b9b23e6-panelresearch.googlevideo.com.socal.rr.com
 0.0.0.0 a13a0727-962b-4c06-9fa3-0cf78b9b23e6-panelresearch.googlevideo.com.socal.rr.com
+0.0.0.0 a13a0727-962b-4c06-9fa3-0cf78b9b23e6-panelresearch.googlevideo.com
 # [Yahoo.com]
 0.0.0.0 beap.gemini.yahoo.com	
 # [Fire TV]
