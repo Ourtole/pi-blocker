@@ -15,3 +15,6 @@ cdnjs.cloudflare.com
 device.auth.xboxlive.com	
 www.youtube.com
 static.cloudflareinsights.com
+static.cloudflareinsights.com	
+click.pstmrk.it	
+s3.amazonaws.com
