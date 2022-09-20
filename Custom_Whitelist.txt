@@ -14,3 +14,4 @@ cdn.datatables.net
 cdnjs.cloudflare.com
 device.auth.xboxlive.com	
 www.youtube.com
+static.cloudflareinsights.com
