@@ -1738,7 +1738,6 @@
 0.0.0.0 r1---sn--n4v7sney.googlevideo.com
 0.0.0.0 r1---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r1---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r1---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r1---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r1---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r1---sn--n8v7kn7d.googlevideo.com
@@ -17029,7 +17028,6 @@
 0.0.0.0 r10---sn--n4v7sney.googlevideo.com
 0.0.0.0 r10---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r10---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r10---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r10---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r10---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r10---sn--n8v7kn7d.googlevideo.com
@@ -19377,7 +19375,6 @@
 0.0.0.0 r11---sn--n4v7sney.googlevideo.com
 0.0.0.0 r11---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r11---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r11---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r11---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r11---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r11---sn--n8v7kn7d.googlevideo.com
@@ -21728,7 +21725,6 @@
 0.0.0.0 r12---sn--n4v7sney.googlevideo.com
 0.0.0.0 r12---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r12---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r12---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r12---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r12---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r12---sn--n8v7kn7d.googlevideo.com
@@ -24076,7 +24072,6 @@
 0.0.0.0 r13---sn--n4v7sney.googlevideo.com
 0.0.0.0 r13---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r13---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r13---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r13---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r13---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r13---sn--n8v7kn7d.googlevideo.com
@@ -26425,7 +26420,6 @@
 0.0.0.0 r14---sn--n4v7sney.googlevideo.com
 0.0.0.0 r14---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r14---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r14---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r14---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r14---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r14---sn--n8v7kn7d.googlevideo.com
@@ -28775,7 +28769,6 @@
 0.0.0.0 r15---sn--n4v7sney.googlevideo.com
 0.0.0.0 r15---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r15---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r15---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r15---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r15---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r15---sn--n8v7kn7d.googlevideo.com
@@ -31125,7 +31118,6 @@
 0.0.0.0 r16---sn--n4v7sney.googlevideo.com
 0.0.0.0 r16---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r16---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r16---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r16---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r16---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r16---sn--n8v7kn7d.googlevideo.com
@@ -33476,7 +33468,6 @@
 0.0.0.0 r17---sn--n4v7sney.googlevideo.com
 0.0.0.0 r17---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r17---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r17---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r17---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r17---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r17---sn--n8v7kn7d.googlevideo.com
@@ -35825,7 +35816,6 @@
 0.0.0.0 r18---sn--n4v7sney.googlevideo.com
 0.0.0.0 r18---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r18---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r18---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r18---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r18---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r18---sn--n8v7kn7d.googlevideo.com
@@ -38173,7 +38163,6 @@
 0.0.0.0 r19---sn--n4v7sney.googlevideo.com
 0.0.0.0 r19---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r19---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r19---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r19---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r19---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r19---sn--n8v7kn7d.googlevideo.com
@@ -40838,7 +40827,6 @@
 0.0.0.0 r2---sn--n4v7sney.googlevideo.com
 0.0.0.0 r2---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r2---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r2---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r2---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r2---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r2---sn--n8v7kn7d.googlevideo.com
@@ -45314,7 +45302,6 @@
 0.0.0.0 r20---sn--n4v7sney.googlevideo.com
 0.0.0.0 r20---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r20---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r20---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r20---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r20---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r20---sn--n8v7kn7d.googlevideo.com
@@ -58106,7 +58093,6 @@
 0.0.0.0 r3---sn--n4v7sney.googlevideo.com
 0.0.0.0 r3---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r3---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r3---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r3---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r3---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r3---sn--n8v7kn7d.googlevideo.com
@@ -71672,7 +71658,6 @@
 0.0.0.0 r4---sn--n4v7sney.googlevideo.com
 0.0.0.0 r4---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r4---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r4---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r4---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r4---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r4---sn--n8v7kn7d.googlevideo.com
@@ -85239,7 +85224,6 @@
 0.0.0.0 r5---sn--n4v7sney.googlevideo.com
 0.0.0.0 r5---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r5---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r5---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r5---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r5---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r5---sn--n8v7kn7d.googlevideo.com
@@ -88734,7 +88718,6 @@
 0.0.0.0 r6---sn--n4v7sney.googlevideo.com
 0.0.0.0 r6---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r6---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r6---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r6---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r6---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r6---sn--n8v7kn7d.googlevideo.com
@@ -91097,7 +91080,6 @@
 0.0.0.0 r7---sn--n4v7sney.googlevideo.com
 0.0.0.0 r7---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r7---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r7---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r7---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r7---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r7---sn--n8v7kn7d.googlevideo.com
@@ -93450,7 +93432,6 @@
 0.0.0.0 r8---sn--n4v7sney.googlevideo.com
 0.0.0.0 r8---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r8---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r8---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r8---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r8---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r8---sn--n8v7kn7d.googlevideo.com
@@ -95803,7 +95784,6 @@
 0.0.0.0 r9---sn--n4v7sney.googlevideo.com
 0.0.0.0 r9---sn--n5pbvoj5caxu8-nbo6.googlevideo.com
 0.0.0.0 r9---sn--n5pbvoj5caxu8-nbos.googlevideo.com
-0.0.0.0 r9---sn--n5pbvoj5caxu8-nboz.google^
 0.0.0.0 r9---sn--n5pbvoj5caxu8-nboz.googlevideo.com
 0.0.0.0 r9---sn--n8v7kn76.googlevideo.com
 0.0.0.0 r9---sn--n8v7kn7d.googlevideo.com
@@ -97596,8 +97576,6 @@
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 static.doubleclick.net
 0.0.0.0 stats.g.doubleclick.net
-0.0.0.0 watchdog.goodbyeads^
-0.0.0.0 watchdog.goodbyeads.youtube^
 0.0.0.0 www-google-analytics.l.google.com
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www.analytic-google.com
@@ -97616,7 +97594,6 @@
 0.0.0.0 yts.moatads.com
 0.0.0.0 yyz10s14-in-f14.1e100.net
 #High risk random 
-0.0.0.0 adservice.google^
 0.0.0.0 googletagmanager.com
 0.0.0.0 googleads2.g.doubleclick.net
 0.0.0.0 adclick.g.doubleclick.net
